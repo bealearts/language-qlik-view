@@ -1,11 +1,29 @@
 {
   "name": "language-qlik-view",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Syntax Highlighting for QlikView and Qlik Sense .qvs files",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bealearts/language-qlik-view.git"
+  },
   "keywords": [
+    "Qlik",
+    "QlikView",
+    "QlikSense",
+    "Atom",
+    "Language",
+    "Syntax",
+    "Highlighting"
   ],
-  "repository": "https://github.com/atom/language-qlik-view",
+  "author": {
+    "name": "David Beale",
+    "url": "http://bealearts.co.uk/"
+  },
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bealearts/language-qlik-view/issues"
+  },
+  "homepage": "https://github.com/bealearts/language-qlik-view#readme",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
