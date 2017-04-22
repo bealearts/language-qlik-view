@@ -1,0 +1,3 @@
+LOAD file
+
+SET variable =$(2+2);
