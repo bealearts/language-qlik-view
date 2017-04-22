@@ -1,7 +1,7 @@
 {
   "name": "language-qlik-view",
   "version": "0.0.0",
-  "description": "Syntax Highlighting for QlikView and Qlik Sense .qvs files",
+  "description": "Atom Syntax Highlighting for QlikView and Qlik Sense .qvs files",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bealearts/language-qlik-view.git"

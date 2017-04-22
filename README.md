@@ -1,6 +1,6 @@
 # language-qlik-view
 
-Syntax Highlighting for QlikView and Qlik Sense .qvs files
+Atom Syntax Highlighting for QlikView and Qlik Sense .qvs files
 
 > Converted from the Sublime Text highlighting https://github.com/kmpm/sublime-qvs
 
