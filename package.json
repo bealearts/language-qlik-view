@@ -1,6 +1,6 @@
 {
   "name": "language-qlik-view",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Atom Syntax Highlighting for QlikView and Qlik Sense .qvs files",
   "repository": {
     "type": "git",
@@ -27,6 +27,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
